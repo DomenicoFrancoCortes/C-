@@ -1,0 +1,12 @@
+*** Comprobante de Pago ***
+Codigo identificador :
+14-15
+Fecha y hora de salida:
+02/07/2022 16:06:53
+Estadía en horas:
+1
+Tarifa Aplicada:
+200
+Importe a pagar:
+200
+-- Gracias por elegirnos --

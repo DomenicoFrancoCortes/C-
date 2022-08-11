@@ -1,0 +1,12 @@
+*** Comprobante de Pago ***
+Codigo identificador :
+9-17
+Fecha y hora de salida:
+02/07/2022 16:08:22
+Estadía en horas:
+2
+Tarifa Aplicada:
+400
+Importe a pagar:
+400
+-- Gracias por elegirnos --
